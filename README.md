@@ -61,10 +61,7 @@ Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, the app incorpo
 ## Screenshots
 
 ### Search Interface
-![Search Interface](https://via.placeholder.com/600x300?text=Search+Interface)
-
-### Search Results
-![Search Results](https://via.placeholder.com/600x300?text=Search+Results)
+![Search Interface](https://raw.githubusercontent.com/TutorialsAndroid/PixaBay-Image-Search/refs/heads/master/Screenshot%202025-01-03%20143827.png)
 
 ---
 
